@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE and OS files
+*.swp
+.DS_Store
+.vscode/
+*.log
